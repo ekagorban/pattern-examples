@@ -1,7 +1,7 @@
 package main
 
 import (
-	"adapter/random"
+	"adapter/internal/random"
 	"log"
 	"strconv"
 )
